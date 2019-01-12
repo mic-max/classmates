@@ -1,0 +1,12 @@
+{
+  "name": "classmates",
+  "version": "1.0.0",
+  "description": "Find out who's in more than one of your courses.",
+  "main": "app.js",
+  "scripts": {
+  	"start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Maxwell",
+  "license": "ISC"
+}
